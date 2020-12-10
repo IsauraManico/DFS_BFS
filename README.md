@@ -1,7 +1,7 @@
 # DFS_BFS
 
 
-Segua o grafo :
+Segue o grafo :
 
             1
           /    \
