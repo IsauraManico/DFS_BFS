@@ -1,7 +1,7 @@
 # DFS_BFS
 
 
-Segue :
+Segua o grafo :
 
             1
           /    \
@@ -26,9 +26,16 @@ Para o nosso caso de pesquisa, implementamos em 3 percursos:
 	No percurso pós-ordem, visitamos a sub-árvore a esquerda primeiramente, em seguidamente a sub-árvore a direita e por último a raíz.
 
 
+
 Pré-ordem: 1 2 3 4 5 8 9 6 9 7
 Pós-ordem:  4,8,9,5,2,10,6,7,3,1
 Ordem simétrica: 4,2,8,5,9,1,6,10,3,7
+
+
+
+
+
+
 
 
 BFS(Busca em largura)
